@@ -15,7 +15,7 @@ I am currently on my last year at Yeditepe University in the department of softw
 
 :book: I’m currently learning:
 
-![Learning](https://skillicons.dev/icons?i=androidstudio,python,mysql,unity,cs,python,matlab)
+![Learning](https://skillicons.dev/icons?i=androidstudio,python,mysql,unity,cs,matlab)
 
 :link: Connect with Linkedin:
 
