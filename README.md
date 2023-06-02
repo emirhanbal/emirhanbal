@@ -4,7 +4,7 @@ I am currently on my last year at Yeditepe University in the department of softw
 
  - 🔭 I’m currently working on Data analysis & Data science and Game Development.
 - 🌱 I’m currently learning Data Science & Machine Learning with Python and Game Development with Unity. 
-- 🔗 You can also check out my portfolio at: http://emirhanbal.com
+- 🔗 You can also check out my portfolio at: http://emirhanbal.info
 - 📫 How to reach me: xemirhanbal@gmail.com
 
 
@@ -15,7 +15,7 @@ I am currently on my last year at Yeditepe University in the department of softw
 
 :book: I’m currently learning:
 
-![Learning](https://skillicons.dev/icons?i=androidstudio,kotlin,python,mysql,matlab)
+![Learning](https://skillicons.dev/icons?i=androidstudio,python,mysql,unity,cs,python,matlab)
 
 :link: Connect with Linkedin:
 
