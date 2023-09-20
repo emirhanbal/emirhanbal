@@ -11,11 +11,11 @@ I am currently on my last year at Yeditepe University in the department of softw
 
 :books: Languages and Tools:
 
-![Skills](https://skillicons.dev/icons?i=visualstudio,vscode,html,css,unity,cs,python,java,eclipse,photoshop)
+![Skills](https://skillicons.dev/icons?i=visualstudio,vscode,html,css,unity,cs,python,java,eclipse,selenium,photoshop)
 
 :book: I’m currently learning:
 
-![Learning](https://skillicons.dev/icons?i=androidstudio,python,mysql,unity,cs,matlab)
+![Learning](https://skillicons.dev/icons?i=python,mysql,unity,cs,mongodb)
 
 :link: Connect with Linkedin:
 
